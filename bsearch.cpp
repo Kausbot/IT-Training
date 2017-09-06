@@ -40,5 +40,5 @@ int main()
   int x;
   cin>>x;
 
-  cout<<bsearch(x , 0 , data.size()-1)<<endl;
+  cout<<bsearch(x , 0 , data.size()-1)<<endl;return 0;
 }
