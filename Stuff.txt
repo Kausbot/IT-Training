@@ -1,0 +1,39 @@
+
+TREE
+1. Find the height of a Node
+2. Depth of a Node
+3. Diameter of a tree **
+4. Lowest common Ancestor
+5. Print all leaves
+
+Trie data structure **
+
+6. All nodes at distance k ***
+7. Find if a given tree is a subtree of another ***
+8. Largest common subtree ***
+9. AVL tree ***
+10 Red black tree ***
+
+
+RECURSION
+1. binary search
+
+2. longest common subsequence -- recursive approach (DP)
+3. all paths from top left to bottom right -- robot question..
+4. coin change - recursive (DP)
+
+Disjoint set union -- uses tree concept.
+
+Dajkstras
+Prims
+Kruskals
+
+Amortized analysis.
+
+HASHING
+
+hash function - choice
+collision
+
+Open addressing
+Closed addressing - chaining
